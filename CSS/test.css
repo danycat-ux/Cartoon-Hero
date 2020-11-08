@@ -1,0 +1,28 @@
+body{
+	background-color: LAVENDERBLUSH;
+}
+h1{
+	font-size: 30px;
+	color: #DDA0DD;
+}
+
+h2{
+	color: darkmagenta;
+	font-size: 20px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.big.uppercase{
+	color: indigo;
+}
+
+.big{
+	font-size: 60px;
+}
+
+h1span{
+	color: orchid;
+}
