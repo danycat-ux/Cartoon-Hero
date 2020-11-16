@@ -1,6 +1,6 @@
 body{
 	margin: 0;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: helvetica, arial, sans-serif;
 	font-size: 20px;
 	line-height: 30px;
 }
@@ -13,7 +13,7 @@ header{
 }
 
 h1, h2{
-	font-family: 'Underdog', cursive;
+	font-family: 'underdog', cursive;
 }
 
 header h1{
